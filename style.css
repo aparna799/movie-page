@@ -1,0 +1,47 @@
+.bg-container{
+    background-image: url("orange-color-bg.png");
+    height:100vh;
+    background-size: cover;
+}
+.first-image{
+    padding:10px;
+    
+    
+}
+.heading{
+    padding:10px;
+    color:white;
+    font-size:26px;
+}
+.bt{
+    color:orange;
+    background-color: white;
+    width:150px;
+    padding:10px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin:10px;
+}
+.para{
+    padding-left:10px;
+    color:white;
+    font-size:14px;
+}
+.heading2{
+    padding-left: 10px;
+    font-size: 15px;
+    color:white;
+}
+.carousel {
+    width: 100%;
+  }
+  .carousel-item img {
+    height: 200px;
+  }
+  .image{
+    padding-left:10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+  }
+  
